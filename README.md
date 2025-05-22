@@ -1,3 +1,4 @@
 # Brainwave_Matrix_Intern
-Power BI Dashboard For Sales Analysis
-social media report 
+1. Power BI Dashboard For Sales Analysis
+
+2. social media report 
